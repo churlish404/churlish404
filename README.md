@@ -6,6 +6,16 @@
 
 #### Currently working on a project called ShroomRoom - a full stack application with CRUD functionality that will allow users to add mushrooms to their "basket" if they have found them in the wild and upload an image.
 
+#### I'm also looking to collaborate on some projects and explore other languages (Python, C++) reach out if you have any questions or would like to work on something together
+
+## Socials
+
+- LinkedIn - https://www.linkedin.com/in/luca-gilardenghi/
+- Spotify - lg13737
+
+## Contact
+- Luca.Gilardenghi@nology.io
+
 ## Technology Stack
 
 
