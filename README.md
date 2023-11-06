@@ -1,8 +1,6 @@
-## Hey I'm Luca 🤘 .. an F1 addicted 🏎️, golf-course hacking 🏌🏻‍♂️ foraging 🍄 foodie 🍜 with a passion for problem-solving!
+## Hey I'm Luca 🤘 
 
 I've recently completed the _nology full-stack software enginerring course where I learned the fundamentals of a whole host of frontend and backend technologies see below for details 🙌
-
-I'm inspired by beautifully designed websites and I am driven to expand my programming skills to allow me to create innovative solutions to real world problems
 
 Currently working on a project called ShroomRoom - a full stack application with CRUD functionality that will allow users to add mushrooms to their "basket" if they have found them in the wild and upload an image.
 
